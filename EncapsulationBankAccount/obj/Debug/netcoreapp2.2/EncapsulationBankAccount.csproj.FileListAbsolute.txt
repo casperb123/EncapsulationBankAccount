@@ -1,0 +1,11 @@
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\bin\Debug\netcoreapp2.2\EncapsulationBankAccount.deps.json
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\bin\Debug\netcoreapp2.2\EncapsulationBankAccount.runtimeconfig.json
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\bin\Debug\netcoreapp2.2\EncapsulationBankAccount.runtimeconfig.dev.json
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\bin\Debug\netcoreapp2.2\EncapsulationBankAccount.dll
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\bin\Debug\netcoreapp2.2\EncapsulationBankAccount.pdb
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\obj\Debug\netcoreapp2.2\EncapsulationBankAccount.csprojAssemblyReference.cache
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\obj\Debug\netcoreapp2.2\EncapsulationBankAccount.csproj.CoreCompileInputs.cache
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\obj\Debug\netcoreapp2.2\EncapsulationBankAccount.AssemblyInfoInputs.cache
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\obj\Debug\netcoreapp2.2\EncapsulationBankAccount.AssemblyInfo.cs
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\obj\Debug\netcoreapp2.2\EncapsulationBankAccount.dll
+C:\Users\casp9536\source\repos\EncapsulationBankAccount\EncapsulationBankAccount\obj\Debug\netcoreapp2.2\EncapsulationBankAccount.pdb
